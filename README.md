@@ -46,6 +46,6 @@ gcc code.c
 ```
 Output
 ```
-Largest Minimum Distance
+
 ```
 ---
