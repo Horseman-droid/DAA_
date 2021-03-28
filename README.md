@@ -25,7 +25,7 @@ git clone https://github.com/Horseman-droid/DAA_
 ```
 Project Initialize 
 ```
-cd DAA
+cd DAA_
 #create assignment-5 folder
 mkdir assignment_05
 
@@ -34,7 +34,7 @@ cd assignment_05
 
 #Create file
 touch readme.md
-touch code.c
+touch sol.cpp
 .
 .
 ```
@@ -42,7 +42,7 @@ touch code.c
 
 Run the code
 ```
-gcc code.c
+g++ sol.cpp
 ```
 Output
 ```
@@ -61,18 +61,19 @@ Enter value of x:
 2
 
 Output
-Sum of the geometric sequence wil be :62
+Sum of the geometric sequence wil be: 62
 
 #--------------------------#
 Test Case-2
 Input:
 Enter value of n:
-
 4
 
-Enter value of x:3
+Enter value of x:
+3
 
-Sum of the geometric sequence wil be :120
+Output
+Sum of the geometric sequence wil be: 120
 
 ###Theory
 The Solution to this problem is based on divide and conquer aproach
