@@ -55,11 +55,9 @@ Find the sum of geometric series
 Test Case-1
 Input:
 Enter value of n:
-
 5
 
 Enter value of x:
-
 2
 
 Output
@@ -89,16 +87,13 @@ here we are dividing problem n sub problem and getting sum from tho se sub-probl
 
 **Time Complexity**
 
-The overall complexity of the question is O(n).
-Our algorithm uses divide and conquer approch to find the sum
-and the best case complexity will be o(1)
+The overall complexity of the question is O(n). Our algorithm uses divide and conquer approch to find the sum and the best case complexity will be o(1)
 
 ---
 
 **Space Complexity**
 
-No extra space is used in this algorithm, so auxiliary space is constant.Only the input array is of size n.
-Space Complexity =Input Space+Auxiliary Space ,which in turn equal to O(n).
+No extra space is used in this algorithm, so auxiliary space is constant.Only the input array is of size n. Space Complexity =Input Space+Auxiliary Space ,which in turn equal to O(n).
 
 ---
 
